@@ -135,7 +135,7 @@
 		{
 			"path": "pages/user/promotion/AddProduct/index",
 			"style": {
-				"navigationBarTitleText": "新增商品"
+				"navigationBarTitleText": "商品"
 			}
 		},
 		{
